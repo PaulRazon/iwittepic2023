@@ -5,17 +5,19 @@
 |andrestian01 |https://github.com/Lluan12
 |lluan12      |https://github.com/andrestian01
 
-
+CREANDO REPOSITORIO
 ![image](https://github.com/PaulRazon/iwittepic2023/assets/73920749/de2588b4-b57e-4b4b-a9cf-e7d550552c7f)
-
+SE ABRE EL GITBASH DESDE LA CARPETA A CLONAR
 ![image](https://github.com/PaulRazon/iwittepic2023/assets/73920749/1f6eba96-9118-4786-a18c-fd4fecc55b01)
-
+SE CLONA LA CARPETA CON:
+git clone https://github.com/PaulRazon/iwittepic2023.git
 ![image](https://github.com/PaulRazon/iwittepic2023/assets/73920749/78c2281d-396e-4610-b9d4-145e2fdf3b7c)
 ![image](https://github.com/PaulRazon/iwittepic2023/assets/73920749/359d1c34-8852-4220-ab44-3fe8cc822287)
-
+CREAMOS EL ARCHIVO README.md
+echo "texto" >> Readme.md
 ![image](https://github.com/PaulRazon/iwittepic2023/assets/73920749/39f29ecf-b9a8-4a14-be38-518508ae5510)
 ![image](https://github.com/PaulRazon/iwittepic2023/assets/73920749/c0dc7138-b5bf-4eef-bfe3-3ebccfbc830e)
-
+Realizamos un git Commit para realizar nuestro primera subida de archivs, por lo que añadimos nuestros archivos privados a la carpeta gitignore para uso privado
 ![image](https://github.com/PaulRazon/iwittepic2023/assets/73920749/4767ca37-3359-47d5-aac5-f21839f04605)
 
 ![image](https://github.com/PaulRazon/iwittepic2023/assets/73920749/12770768-c38d-4f31-af67-31ea6cbf2067)
